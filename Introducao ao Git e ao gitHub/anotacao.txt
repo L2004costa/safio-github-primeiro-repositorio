@@ -1,0 +1,2 @@
+Linjk para download do Git: http://gitscm.com/download
+O Git Bash é um terminal estendido para otimizar o uso do Git.
